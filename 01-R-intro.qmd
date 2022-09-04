@@ -1,0 +1,83 @@
+# R语言基础 {#R-intro}
+
+```{r}
+#| echo: false
+
+knitr::knit_hooks$set(par = function(before, options, envir) {
+  if (before && options$fig.show != "none") {
+    par(
+      mar = c(4, 4, .1, .1)
+    )
+  }
+})
+```
+
+
+
+
+## R 语言介绍和安装
+
+### R语言介绍
+
+
+### R语言版本和R包
+
+
+### 在Windows系统上安装
+
+### 在Mac OS系统上安装
+
+### 在Linux系统上安装
+
+### R语言运行节面
+
+## Rstudio 的介绍、安装和基本操作
+
+### Rstudio介绍
+
+### 在Windows系统上安装
+
+### 在Mac OS系统上安装
+
+### 在Linux系统上安装
+
+### 常用的操作节面
+
+## 数据集的概念和操作
+
+### 数据类型
+
+### 变量
+
+### 向量
+
+### 函数和管道
+
+### 数据框
+
+### 矩阵
+
+### 数组
+
+### 列表
+
+### 不同形式数据导入
+
+### 自行输入数据
+
+### 导入Excel数据
+
+### 导入XML数据
+
+### 导入SPSS数据
+
+### 导入Stata数据
+
+### 导入数据库数据
+
+
+
+
+
+
+
